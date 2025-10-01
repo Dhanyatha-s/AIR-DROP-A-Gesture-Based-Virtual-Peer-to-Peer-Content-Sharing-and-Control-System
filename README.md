@@ -3,11 +3,11 @@ AIR DROP: A Gesture-Based Virtual Peer-to-Peer Content Sharing and Control Syste
 ### ---- Installation ----  
 
 #### create a virtual environment
--------------------------------   
+ 
 ```python -m venv venv    ```       -- run this first
 
 #### Activate the virtual environment
-----------------------------------   
+  
 ```venv\Scripts\activate ```
 
 
