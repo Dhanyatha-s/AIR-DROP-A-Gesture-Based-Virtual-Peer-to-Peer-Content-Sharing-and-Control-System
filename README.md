@@ -28,9 +28,9 @@ python create_ssl_certificate.py
 python main_app.py   
 
 
-// Index to navigate across the window (cursor)
-// Thumb + Index == pinch to select the file/folder
-// all fingers closed == Fist to copy
-// all fingers up == open palm to paste
+// Index to navigate across the window (cursor)  
+// Thumb + Index == pinch to select the file/folder  
+// all fingers closed == Fist to copy  
+// all fingers up == open palm to paste   
 
 
